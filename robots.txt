@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://openeuca.github.io/MWA/sitemap_index.txt
+Sitemap: https://openeuca.github.io/WpD/sitemap_index.txt
+Sitemap: https://openeuca.github.io/bdM/sitemap_index.txt
+Sitemap: https://openeuca.github.io/ycR/sitemap_index.txt
